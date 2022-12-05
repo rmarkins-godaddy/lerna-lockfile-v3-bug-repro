@@ -1,0 +1,10 @@
+{
+  "name": "@maybephilipp/root-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "devDependencies": {
+    "lerna": "^6.1.0"
+  }
+}

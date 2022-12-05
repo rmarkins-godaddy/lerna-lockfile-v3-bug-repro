@@ -1,0 +1,14 @@
+{
+  "name": "@maybephilipp/pkg1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@maybephilipp/pkg3": "^1.0.0",
+    "clsx": "^1.2.1"
+  }
+}

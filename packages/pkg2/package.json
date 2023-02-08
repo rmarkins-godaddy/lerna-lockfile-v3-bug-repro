@@ -1,6 +1,6 @@
 {
   "name": "@maybephilipp/pkg2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "index.js",
   "exports": {
@@ -8,7 +8,7 @@
     "./*": "./*"
   },
   "dependencies": {
-    "@maybephilipp/pkg3": "^1.0.0",
+    "@maybephilipp/pkg3": "^1.0.1",
     "clsx": "^1.2.1"
   }
 }
